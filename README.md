@@ -1,2 +1,2 @@
 # hello-world
-learning repository
+I love this stuff let's go!!!
